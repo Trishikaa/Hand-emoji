@@ -7,7 +7,7 @@ Webcam.set({
 
 camera=document.getElementById("camera");
 
-Wemcam.attach('#camera');
+Webcam.attach('#camera');
 
 
 function take_snapshot()
